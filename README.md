@@ -40,7 +40,11 @@ Generative AI impact of scaling in LLMs.
 * **Sampling:** Choose the next token from the model's predicted probability distribution. **Greedy sampling** selects the most likely token, while **top-k** or **nucleus sampling** introduces randomness for more creative and diverse outputs.
 * **Iterative Process:** Repeat the generation process, using the newly generated token as part of the input for the next prediction, until a stop condition is met (e.g., generating an end-of-sequence token or reaching a maximum length).
 ## Output
-[Fundamentals of Generative AI and Large Language Models.pdf](https://github.com/user-attachments/files/22056761/Fundamentals.of.Generative.AI.and.Large.Language.Models.pdf)
+```
+Create a professional Word report on ‘The Fundamentals of Generative AI and Large Language Models’ with cover page, table of contents, proper headings, subheadings, full detailed content, 1.5 line spacing, font size 16 for headings, 14–15 for body text, and include diagrams or placeholders for transformer architecture, scaling laws, and applications.
+```
+[The Fundamentals of Generative AI and Large Language Models.pdf](https://github.com/user-attachments/files/22070853/The.Fundamentals.of.Generative.AI.and.Large.Language.Models.pdf)
+
 
 ## Result
 The report was successfully completed.
